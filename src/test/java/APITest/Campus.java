@@ -135,7 +135,7 @@ public class Campus {
 
                 .then()
                 //.log().body()
-                .statusCode(400) //jenkins icin hataya donusturuldu 200 yerine 400 donsun
+                .statusCode(500) //jenkins icin hataya donusturuldu 200 yerine 500 donsun
 
         ;
     }
