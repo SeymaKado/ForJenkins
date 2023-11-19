@@ -135,7 +135,7 @@ public class Campus {
 
                 .then()
                 //.log().body()
-                .statusCode(400) //hataya cevrildi 200 den
+                .statusCode(200)
 
         ;
     }
