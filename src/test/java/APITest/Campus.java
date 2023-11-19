@@ -32,8 +32,8 @@ public class Campus {
     public  void login(){
     baseURI = "https://test.mersys.io/";
     Map<String, String> loginInfo = new HashMap<>();
-    loginInfo.put("username","turkeyts");
-    loginInfo.put("password", "TechnoStudy123");
+    loginInfo.put("username","****");
+    loginInfo.put("password", "****");
     loginInfo.put("rememberMe", "true");
     Cookies cookies =
             given()
