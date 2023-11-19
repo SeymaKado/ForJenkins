@@ -135,7 +135,7 @@ public class Campus {
 
                 .then()
                 //.log().body()
-                .statusCode(200)
+                .statusCode(400)
 
         ;
     }
